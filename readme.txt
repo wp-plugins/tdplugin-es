@@ -1,6 +1,6 @@
 === TradeDoubler ES ===
 Contributors: sergio.martinez
-Tags: tradedoubler,td,affiliate,afiliados
+Tags: tradedoubler,td,affiliate,afiliados,tdplugin,tdplugin-es
 Requires at least: 2.0.2
 Tested up to: 2.8
 Stable tag: 4.3
