@@ -8,7 +8,7 @@ Plugin Name: TradeDoubler Wordpress Plugin
 Plugin URI: http://www.tradedoubler.com
 Description: modo de uso  [td tdquery="tus keywords aqu&iacute;" tdno="20" tdpg="0" tdmid="12345,234,189" tdcat="68" tdprice="20_200" td_estilo="1 o 2" prodfila="2"] el &uacute;nico campo necesario es  tdquery, tdno = n&uacute;mero de resultados, tdpg = empieza por el n&uacute;mero x (de resultado), tdmid = el identificador de anunciante de TD, separado por comas, tdcat = el identificador de categor&iacute;a para buscar <a href="aqu&iacute; enlace al tdblog" target="_blank">lista de categor&iacute;as</a>, tdprice = rango de precio para la b&uacute;squeda. para el estilo de la presentaci&oacute;n puede ser presentado usando el 1 o  2, con la primera opci&oacute;n varias el n&uacute;mero de productos por fila, la segunda muestra tan s&oacute;lo uno.
 Author: Sergio Martinez de Cestafe
-Version: 1.0
+Version: 1.1
 Author URI: http://www.tradedoubler.com
 
 */
